@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @GeykScript✨ 
+Aspiring Software Engineer | Web Developer | Tech Enthusiast
 
-<!---
-GeykScript/GeykScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building innovative solutions and exploring new technologies.
+📫 Contact me:
+facebook
+Instagram
+GitHub
+
+🌎 Connect with me:
+
+
+💻 Tech Stack:
+⚡ Let's connect and collaborate!
+
+PHP, Python, C, Laravel, Bootstrap, Tailwind, React Js
