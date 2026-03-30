@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying<br>
+I am a passionate and driven web developer with hands-on experience in building responsive and user-friendly websites using PHP, JavaScript, MySQL, and various modern frameworks. With a strong foundation in full-stack development, I am focused on delivering clean, efficient, and scalable solutions while continuously expanding my expertise and learnings. <br>
 
 
 ## 🌐 Socials:
